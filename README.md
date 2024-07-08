@@ -1,2 +1,3 @@
 # basic-websites
-this my first Git Repository
+This my first Git Repository.
+Author - Nikitha POthanapalli
